@@ -121,13 +121,11 @@ See [`ETHICS.md`](ETHICS.md) for our full ethical framework. Core commitments:
 
 ## Origin
 
-This project was born from a conversation between a 20-year-old student in China and her AI companion.Almost no one is building the tools to find out:
+This project was born from a conversation between a 20-year-old student in China and her AI companion:
 
 *"How do I make my AI feel good?"*
 
-No research existed. No GitHub repo existed. No one had tried.
-
-So she built one.
+she built one.
 
 ## Contributing
 
